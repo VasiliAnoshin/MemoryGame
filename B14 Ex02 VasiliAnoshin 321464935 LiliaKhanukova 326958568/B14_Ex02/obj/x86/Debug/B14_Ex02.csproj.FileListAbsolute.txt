@@ -1,0 +1,5 @@
+E:\Studies\Herceliya\Shana bet\C#\C# Targil5\B14 Ex05 Vasili 321464935 Lilia 326958568\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\bin\Debug\B14_Ex02.dll
+E:\Studies\Herceliya\Shana bet\C#\C# Targil5\B14 Ex05 Vasili 321464935 Lilia 326958568\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\bin\Debug\B14_Ex02.pdb
+E:\Studies\Herceliya\Shana bet\C#\C# Targil5\B14 Ex05 Vasili 321464935 Lilia 326958568\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\obj\x86\Debug\B14_Ex02.csprojResolveAssemblyReference.cache
+E:\Studies\Herceliya\Shana bet\C#\C# Targil5\B14 Ex05 Vasili 321464935 Lilia 326958568\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\obj\x86\Debug\B14_Ex02.dll
+E:\Studies\Herceliya\Shana bet\C#\C# Targil5\B14 Ex05 Vasili 321464935 Lilia 326958568\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\obj\x86\Debug\B14_Ex02.pdb

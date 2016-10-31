@@ -1,0 +1,11 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 321464935 - Vasili Anoshin
+Second Student Details: 326958568 - Khanuhova Lilia
+Delivery Date.........: 13 - June - 2014
+Delivered In Delay....: 5
+Lecturer Confirmation.: No
+Delay Reason..........: Examing in Operatopn system .
+Comments..............: Include Bonus of Delegate .
+VS Version............: Visual Studio Version 2013
+=======================End Exercise Checking Report=========================
